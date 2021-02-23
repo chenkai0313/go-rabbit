@@ -4,6 +4,8 @@ rabbit 方法封装
 ### 使用
 ```
 go get github.com/chenkai0313/go-rabbmit
+
+已封装了延迟队列方法 
 ```
 
 #### 使用事例
